@@ -1,2 +1,2 @@
-# osmosisopen.github.io
-GitHub Home Page
+# GitHub Home Page
+
